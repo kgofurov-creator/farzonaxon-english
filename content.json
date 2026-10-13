@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "vocab": [
+    {
+      "id": "jobs",
+      "title": "Kasblar va kelajak",
+      "emoji": "💼",
+      "words": [
+        ["career", "kasb yo'li, karyera", "She wants a career in medicine."],
+        ["engineer", "muhandis", "My uncle is an engineer. He builds bridges."],
+        ["architect", "me'mor, arxitektor", "An architect designs buildings."],
+        ["lawyer", "huquqshunos, advokat", "A lawyer helps people with legal problems."],
+        ["scientist", "olim", "Scientists are looking for a cure for the disease."],
+        ["journalist", "jurnalist", "The journalist wrote an article about our school."],
+        ["programmer", "dasturchi", "Programmers write code for apps and games."],
+        ["vet", "veterinar", "We took our sick cat to the vet."],
+        ["pilot", "uchuvchi", "The pilot welcomed the passengers on board."],
+        ["salary", "maosh", "Doctors usually have a good salary."],
+        ["skill", "mahorat, ko'nikma", "Speaking English is a useful skill."],
+        ["experience", "tajriba", "Do you have any experience with children?"],
+        ["interview", "suhbat (ishga qabul)", "I have a job interview tomorrow."],
+        ["apply for", "ariza bermoq", "She applied for a job at the bank."],
+        ["hard-working", "mehnatkash", "My mum is very hard-working."],
+        ["ambition", "intilish, katta orzu", "Her ambition is to become a famous designer."],
+        ["volunteer", "ko'ngilli", "I work as a volunteer at the animal shelter."],
+        ["university", "universitet", "My sister studies economics at university."]
+      ]
+    }
+  ],
+  "grammar": [],
+  "stories": [],
+  "dialogues": []
+}
