@@ -8956,7 +8956,7 @@ case 3:b=a4
 a=Date.now()
 a0=A.fQ(b.a.h(0,"last_update_check"))
 if(a0==null)a0=0
-if(!a2&&a-a0<216e5){q=B.a9v
+if(!a2&&a-a0<36e5){q=B.a9v
 s=1
 break}p=5
 s=8
@@ -46082,7 +46082,7 @@ r=o.r
 q=J.bu(s)
 if(l!=null){l=q.h(s,r).z
 l.toString
-p=B.c.ns(l,"______","\u3010"+B.b.gV(J.bK(o.e,o.r).f)+"\u3011")}else{l=q.h(s,r).z
+p=B.c.ns(l,"______","\xab"+B.b.gV(J.bK(o.e,o.r).f)+"\xbb")}else{l=q.h(s,r).z
 l.toString
 p=l}l=m.y
 l=A.a0(p,n,n,n,l==null?n:l.X5(17,1.55),n,n)
@@ -46107,7 +46107,7 @@ l=o.x
 s=o.e
 r=o.r
 q=J.bu(s)
-s=A.b([A.dH(A.a0(l!=null?B.c.ns(q.h(s,r).c,"___","\u3010"+B.b.gV(J.bK(o.e,o.r).f)+"\u3011"):q.h(s,r).c,n,n,n,k,n,n),1)],t.p)
+s=A.b([A.dH(A.a0(l!=null?B.c.ns(q.h(s,r).c,"___","\xab"+B.b.gV(J.bK(o.e,o.r).f)+"\xbb"):q.h(s,r).c,n,n,n,k,n,n),1)],t.p)
 if(J.bK(o.e,o.r).d!=null){l=J.bK(o.e,o.r).d
 l.toString
 s.push(new A.ev(l,24,!1,n))}return new A.cn(A.bY(s,B.w,B.m,B.o,0),n,m,B.KH,n)},
