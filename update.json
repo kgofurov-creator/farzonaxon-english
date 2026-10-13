@@ -1,8 +1,8 @@
 {
-    "latest_build":  2,
-    "version_name":  "1.1.0",
-    "notes":  "Internet orqali yangi darslar va versiyalarni olish imkoniyati qo\u0027shildi.",
-    "apk_url":  "https://github.com/kgofurov-creator/farzonaxon-english/releases/download/v1.1.0/Farzonaxon_English.apk",
+    "latest_build":  3,
+    "version_name":  "1.2.0",
+    "notes":  "Yangi: SAT tayyorgarlik bo\u0027limi (qiyin daraja) — 9 turdagi SAT Reading and Writing mashqlari, vaqtli mini-test va 54 ta akademik SAT so\u0027zi.",
+    "apk_url":  "https://github.com/kgofurov-creator/farzonaxon-english/releases/download/v1.2.0/Farzonaxon_English.apk",
     "content_version":  1,
     "content_url":  "https://raw.githubusercontent.com/kgofurov-creator/farzonaxon-english/main/content.json"
 }
